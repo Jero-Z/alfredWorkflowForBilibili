@@ -33,13 +33,13 @@
 		</array>
 	</dict>
 	<key>createdby</key>
-	<string>zs</string>
+	<string>jun</string>
 	<key>description</key>
-	<string>知乎搜索</string>
+	<string>B站alfred 搜索</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
-	<string>zhihu_search</string>
+	<string>bilibili_search</string>
 	<key>objects</key>
 	<array>
 		<dict>
@@ -116,17 +116,17 @@
 				<key>argument</key>
 				<integer>1</integer>
 				<key>argumenttext</key>
-				<string>zh </string>
+				<string>bs </string>
 				<key>focusedappvariable</key>
 				<false/>
 				<key>focusedappvariablename</key>
 				<string></string>
 				<key>hotkey</key>
-				<integer>6</integer>
+				<integer>11</integer>
 				<key>hotmod</key>
 				<integer>524288</integer>
 				<key>hotstring</key>
-				<string>Z</string>
+				<string>B</string>
 				<key>leftcursor</key>
 				<false/>
 				<key>modsmode</key>
@@ -194,6 +194,10 @@
 			<integer>435</integer>
 		</dict>
 	</dict>
+	<key>variablesdontexport</key>
+	<array/>
+	<key>version</key>
+	<string>1.0.1</string>
 	<key>webaddress</key>
 	<string></string>
 </dict>
